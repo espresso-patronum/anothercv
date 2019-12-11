@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anothercv/static/css/main.d1b05096.chunk.css",
+    "main.js": "/anothercv/static/js/main.de9de178.chunk.js",
+    "main.js.map": "/anothercv/static/js/main.de9de178.chunk.js.map",
+    "runtime-main.js": "/anothercv/static/js/runtime-main.c214c2aa.js",
+    "runtime-main.js.map": "/anothercv/static/js/runtime-main.c214c2aa.js.map",
+    "static/js/2.f5ff5e22.chunk.js": "/anothercv/static/js/2.f5ff5e22.chunk.js",
+    "static/js/2.f5ff5e22.chunk.js.map": "/anothercv/static/js/2.f5ff5e22.chunk.js.map",
+    "index.html": "/anothercv/index.html",
+    "precache-manifest.52e131611f523781f82de6b4b4f914f2.js": "/anothercv/precache-manifest.52e131611f523781f82de6b4b4f914f2.js",
+    "service-worker.js": "/anothercv/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/anothercv/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f5ff5e22.chunk.js.LICENSE": "/anothercv/static/js/2.f5ff5e22.chunk.js.LICENSE",
+    "static/media/logo.svg": "/anothercv/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c214c2aa.js",
+    "static/js/2.f5ff5e22.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.de9de178.chunk.js"
+  ]
+}
